@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.idea/
+
+# Local WhatsApp export(s) (keep stop_hinglish.txt tracked)
+WhatsApp Chat*.txt
+
+# Notebook checkpoints
+.ipynb_checkpoints/
